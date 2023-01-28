@@ -1,3 +1,4 @@
+![](https://github.com/thiagomms/projeto-burger/blob/master/burguer.gif)
 # projeto-burguer
 
 ## Project setup
@@ -14,4 +15,5 @@ npm run serve
 ```
 npm run build
 ```
-![](https://github.com/thiagomms/projeto-burger/blob/master/burguer.gif)
+
+
